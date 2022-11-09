@@ -1,0 +1,8 @@
+E:\1107ADO.NET\1107ADO作業\Exec3_Extensions\Q2\bin\Debug\Q2.exe.config
+E:\1107ADO.NET\1107ADO作業\Exec3_Extensions\Q2\bin\Debug\Q2.exe
+E:\1107ADO.NET\1107ADO作業\Exec3_Extensions\Q2\bin\Debug\Q2.pdb
+E:\1107ADO.NET\1107ADO作業\Exec3_Extensions\Q2\obj\Debug\Q2.csproj.AssemblyReference.cache
+E:\1107ADO.NET\1107ADO作業\Exec3_Extensions\Q2\obj\Debug\Q2.csproj.SuggestedBindingRedirects.cache
+E:\1107ADO.NET\1107ADO作業\Exec3_Extensions\Q2\obj\Debug\Q2.csproj.CoreCompileInputs.cache
+E:\1107ADO.NET\1107ADO作業\Exec3_Extensions\Q2\obj\Debug\Q2.exe
+E:\1107ADO.NET\1107ADO作業\Exec3_Extensions\Q2\obj\Debug\Q2.pdb
